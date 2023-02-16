@@ -11,7 +11,7 @@ https://ignite-call-flax.vercel.app/
 
 **Front-end:** React, React Hook Form, Zod, Radix-ui, axios, stitches, Next, Next Auth e Prisma.
 
-Para codar o projeto, são necessárias 4 variáveis ambiente:
+Para codar o projeto, são necessárias 5 variáveis ambiente:
 
 - GOOGLE_CLIENT_SECRET: Retirada de um app do Google, é necessário ter um pra rodar o projeto.
 - GOOGLE_CLIENT_ID: Mesma coisa do que a chave acima.
